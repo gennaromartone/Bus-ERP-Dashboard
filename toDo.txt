@@ -1,0 +1,5 @@
+1) allineare cookie session time con la scadenza del token 
+2) creare MainLayouts e comporlo con le section della pagina specifica
+3) usare css variable per common-color
+4) iportare css di base
+5) fix header page
