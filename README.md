@@ -1,4 +1,4 @@
-## Mainteny Manager Web Application (React + Next Js)
+## Bus-ERP-Dashboard Web Application (React + Next Js)
 
 #### Running the application using Docker Compose
 
